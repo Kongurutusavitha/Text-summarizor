@@ -29,3 +29,10 @@ heapq.nlargest — to select top-ranked sentences based on scoring.
 
 Terminal/Command Line: For user interaction in interactive mode.
 
+OUTPUT
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7843f2c9-3781-4fae-b7cc-a5cc4756f71e" />
+
+
+
