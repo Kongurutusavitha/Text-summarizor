@@ -32,7 +32,9 @@ Terminal/Command Line: For user interaction in interactive mode.
 OUTPUT
 
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7843f2c9-3781-4fae-b7cc-a5cc4756f71e" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/60b0f6c7-851d-4922-9a07-aab8b0ca4841" />
+
+
 
 
 
